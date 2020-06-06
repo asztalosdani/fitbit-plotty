@@ -1,0 +1,104 @@
+<svg>
+    <rect id="background"/>
+    <use id="myDiv" href="#chart" x="0" y="0" width="100%" height="200">
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+        <use href="#line"/>
+
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+        <use href="#marker"/>
+
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+        <use href="#bar"/>
+
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+        <text text-length="16"/>
+
+        <use href="#pie-chart" id="pup">
+            <use href="#pie-container">
+                <use href="#pie"/>
+                <use href="#pie"/>
+                <use href="#pie"/>
+                <use href="#pie"/>
+                <use href="#pie"/>
+                <use href="#pie"/>
+            </use>
+        </use>
+    </use>
+
+<!--    <mask id="testmask">-->
+<!--        <circle cx="40" cy="40" r="50" fill="red"/>-->
+<!--    </mask>-->
+<!--    <svg mask="#testmask">-->
+<!--        <rect id="test" x="30" y="30" width="80" height="80" fill="blue" pointer-events="visible"/>-->
+<!--    </svg>-->
+
+</svg>
