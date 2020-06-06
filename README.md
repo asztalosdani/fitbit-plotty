@@ -71,7 +71,7 @@ There is an issue with the `onclick` listener of an element that uses mask. As a
 # Apps with Fitbit-Plotty
 | | | |
 | --- | --- | --- |
-| Covid-19 Tracker: by me | ![Alt text](test_image.png?raw=true "Title") | Track the corona virus from your Fitbit. This app is the main reason I made this library. |
+| [Covid-19 Tracker](https://gallery.fitbit.com/details/c62da0a1-381a-4861-a0da-d8e3c47663c0): by me | [![Alt text](test_image.png?raw=true "Title")](https://gallery.fitbit.com/details/c62da0a1-381a-4861-a0da-d8e3c47663c0) | Track the corona virus from your Fitbit. This app is the main reason I made this library. |
 | Your project here |  | Create an issue, or a pull request to include your app here. |
 
 # Support
